@@ -1,0 +1,43 @@
+module.exports.brands = [
+    'BMW',
+    'Chevrolet',
+    'Ford',
+    'Hyundai',
+    'Kia',
+    'Mazda',
+    'Nissan',
+    'Peugeot',
+    'Suzuki',
+    'Toyota',
+    'Great Wall',
+    'Mercedes Benz',
+    'Subaru',
+    'Volvo',
+    'Lada',
+    'Ferrari',
+    'Smart',
+    'Jeep'
+]
+
+module.exports.models = [
+    '320i',
+    'Luv',
+    'Bronco',
+    'Veloster',
+    'Sportage',
+    'Titi',
+    'Terrano',
+    '208',
+    '308',
+    'Grand Nomade',
+    'Jimny',
+    'Hilux',
+    'H3',
+    'A200',
+    'Outback',
+    'XC40',
+    'Niva',
+    'Fuego',
+    'i30',
+    'Wrangler'
+]
